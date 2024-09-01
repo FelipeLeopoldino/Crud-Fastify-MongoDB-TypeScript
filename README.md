@@ -45,16 +45,16 @@ Este é um projeto de CRUD (Create, Read, Delete) de clientes, desenvolvido util
 7. Acesse o sistema em http://localhost:5173.
 
 Endpoints da API
-GET /customers - Lista todos os clientes
-POST /customer - Cria um novo clientes
-DELETE /customer/:id - Remove um clientes
+- GET /customers - Lista todos os clientes
+- POST /customer - Cria um novo clientes
+- DELETE /customer/:id - Remove um clientes
 
 
 Contribuição
-Faça um fork do projeto
-Crie uma nova branch (git checkout -b feature/nova-funcionalidade)
-Commit suas alterações (git commit -am 'Adiciona nova funcionalidade')
-Faça push para a branch (git push origin feature/nova-funcionalidade)
-Abra um Pull Request
+- Faça um fork do projeto
+- Crie uma nova branch (git checkout -b feature/nova-funcionalidade)
+- Commit suas alterações (git commit -am 'Adiciona nova funcionalidade')
+- Faça push para a branch (git push origin feature/nova-funcionalidade)
+- Abra um Pull Request
 
 
