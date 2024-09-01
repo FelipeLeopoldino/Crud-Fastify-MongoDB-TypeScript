@@ -32,7 +32,7 @@ Este é um projeto de CRUD (Create, Read, Delete) de clientes, desenvolvido util
   npm install
 
 4. Crie um arquivo .env na raiz do projeto backend e configure as variáveis de ambiente conforme necessário:
-   MONGODB_URI=sua_url_do_mongodb
+   DATABASE_URL=sua_url_do_mongodb
 
 5. Inicie o servidor backend:
   cd backend
